@@ -487,4 +487,8 @@ $(document).ready(function () {
 
 //edit by sonu654
 
+<<<<<<< HEAD
 //test 2
+=======
+//accept by Akanksha
+>>>>>>> 8f8ed82bec0d069258cc911322aa7970b84c54f3
