@@ -486,6 +486,7 @@ $(document).ready(function () {
 });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 //edit by sonu654
 
 <<<<<<< HEAD
@@ -493,6 +494,9 @@ $(document).ready(function () {
 =======
 //accept by Akanksha
 >>>>>>> 8f8ed82bec0d069258cc911322aa7970b84c54f3
+=======
+//edit by sonu654
+>>>>>>> parent of 6e93dd9... test2
 =======
 //edit by sonu654
 >>>>>>> parent of 6e93dd9... test2
