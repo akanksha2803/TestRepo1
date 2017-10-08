@@ -481,4 +481,6 @@ $(document).ready(function () {
                     } else {
                         alert('Not able to Promote/Demote user this time');
                     }
-''
+                });
+    });
+});
